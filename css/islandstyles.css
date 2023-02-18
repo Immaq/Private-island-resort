@@ -6,3 +6,9 @@ h1 {
 body {
     background: yellowgreen;
 }
+h2 {
+    font-family: sans-serif;
+}
+image {
+    align-self: auto;
+}
